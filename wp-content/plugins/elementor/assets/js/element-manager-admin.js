@@ -1,4 +1,4 @@
-/*! elementor - v3.29.0 - 04-06-2025 */
+/*! elementor - v3.27.0 - 18-02-2025 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -1783,7 +1783,8 @@ var getUsageWidgets = exports.getUsageWidgets = /*#__PURE__*/function () {
   };
 }();
 var markNoticeViewed = exports.markNoticeViewed = /*#__PURE__*/function () {
-  var _ref4 = (0, _asyncToGenerator2.default)(/*#__PURE__*/_regenerator.default.mark(function _callee4(noticeId, nonce) {
+  var _ref4 = (0, _asyncToGenerator2.default)(/*#__PURE__*/_regenerator.default.mark(function _callee4(noticeId) {
+    var response, data;
     return _regenerator.default.wrap(function _callee4$(_context4) {
       while (1) switch (_context4.prev = _context4.next) {
         case 0:
@@ -1796,24 +1797,34 @@ var markNoticeViewed = exports.markNoticeViewed = /*#__PURE__*/function () {
             },
             body: new URLSearchParams({
               action: 'elementor_set_admin_notice_viewed',
-              notice_id: noticeId,
-              _wpnonce: nonce
+              notice_id: noticeId
             })
           });
         case 3:
-          _context4.next = 8;
+          response = _context4.sent;
+          _context4.next = 6;
+          return response.json();
+        case 6:
+          data = _context4.sent;
+          if (!data.success) {
+            _context4.next = 9;
+            break;
+          }
+          return _context4.abrupt("return", data.data);
+        case 9:
+          _context4.next = 14;
           break;
-        case 5:
-          _context4.prev = 5;
+        case 11:
+          _context4.prev = 11;
           _context4.t0 = _context4["catch"](0);
           console.error(_context4.t0); // eslint-disable-line no-console
-        case 8:
+        case 14:
         case "end":
           return _context4.stop();
       }
-    }, _callee4, null, [[0, 5]]);
+    }, _callee4, null, [[0, 11]]);
   }));
-  return function markNoticeViewed(_x2, _x3) {
+  return function markNoticeViewed(_x2) {
     return _ref4.apply(this, arguments);
   };
 }();
@@ -2168,7 +2179,7 @@ var App = exports.App = function App() {
     target: '_blank'
   }, (0, _i18n.__)('Learn More', 'elementor'))), !noticeData.is_viewed && /*#__PURE__*/_react.default.createElement("p", null, /*#__PURE__*/_react.default.createElement(_components.Notice, {
     onRemove: function onRemove() {
-      (0, _api.markNoticeViewed)(noticeData.notice_id, noticeData.nonce);
+      (0, _api.markNoticeViewed)(noticeData.notice_id);
       setNoticeData(_objectSpread(_objectSpread({}, noticeData), {}, {
         is_viewed: true
       }));

@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://infernal-market.com/</loc>
-		<lastmod>2025-03-05T00:12:49+00:00</lastmod>
+		<lastmod>2026-02-26T22:50:48+00:00</lastmod>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
 		</image:image>
@@ -59,112 +59,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://infernal-market.com/contact/</loc>
-		<lastmod>2025-03-05T00:11:52+00:00</lastmod>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Contact-us.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Contact-us-1024x160.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://infernal-market.com/privacy/</loc>
-		<lastmod>2025-03-05T00:13:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://infernal-market.com/raids/</loc>
-		<lastmod>2025-03-05T00:13:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Header-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/therte-650x650.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/toaosrs-650x650.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/chamb-650x650.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://infernal-market.com/reviews/</loc>
-		<lastmod>2025-03-05T00:14:06+00:00</lastmod>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Reviews-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://infernal-market.com/terms/</loc>
-		<lastmod>2025-03-05T00:14:16+00:00</lastmod>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Terms-and-Condition.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://infernal-market.com/blood-torva/</loc>
-		<lastmod>2025-03-05T00:48:43+00:00</lastmod>
+		<lastmod>2026-02-26T22:49:57+00:00</lastmod>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
 		</image:image>
@@ -173,6 +69,21 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/Header-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/range_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/magic_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/hitpoints_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/prayer_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/def_icon.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/blorva-1-1024x526.png</image:loc>
@@ -315,7 +226,7 @@
 	</url>
 	<url>
 		<loc>https://infernal-market.com/chambers-of-xeric/</loc>
-		<lastmod>2025-03-05T00:50:15+00:00</lastmod>
+		<lastmod>2026-02-26T22:50:13+00:00</lastmod>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
 		</image:image>
@@ -326,6 +237,43 @@
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Header-4.png</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/range_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/magic_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/hitpoints_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/prayer_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/def_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://infernal-market.com/contact/</loc>
+		<lastmod>2026-02-26T22:50:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Contact-us.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Contact-us-1024x160.png</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
 		</image:image>
 		<image:image>
@@ -334,7 +282,7 @@
 	</url>
 	<url>
 		<loc>https://infernal-market.com/fortis-colosseum/</loc>
-		<lastmod>2025-03-05T00:52:37+00:00</lastmod>
+		<lastmod>2026-02-26T22:50:36+00:00</lastmod>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
 		</image:image>
@@ -343,6 +291,21 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Header-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/range_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/magic_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/hitpoints_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/prayer_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/def_icon.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/colly-1.png</image:loc>
@@ -421,46 +384,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://infernal-market.com/theatre-of-blood/</loc>
-		<lastmod>2025-03-05T00:59:35+00:00</lastmod>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Header-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://infernal-market.com/tombs-of-amascut/</loc>
-		<lastmod>2025-03-05T01:00:50+00:00</lastmod>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Header-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://infernal-market.com/infernal-service/</loc>
-		<lastmod>2025-03-05T01:58:23+00:00</lastmod>
+		<lastmod>2026-02-26T22:51:01+00:00</lastmod>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
 		</image:image>
@@ -469,6 +394,42 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Header-1.6.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/range_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/magic_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/hitpoints_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/prayer_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/def_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/Inferno-Bowfa.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/Inferno-acb.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/Inferno-Tbow.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/pureACB.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/Puretbow.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/ZerkerACB.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/zerkerTbow.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/infernal-1.png</image:loc>
@@ -589,6 +550,156 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/infernal-42.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://infernal-market.com/privacy/</loc>
+		<lastmod>2026-02-26T22:51:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://infernal-market.com/raids/</loc>
+		<lastmod>2026-02-26T22:51:23+00:00</lastmod>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Header-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/therte-650x650.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/toaosrs-650x650.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/chamb-650x650.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://infernal-market.com/reviews/</loc>
+		<lastmod>2026-02-26T22:51:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Reviews-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://infernal-market.com/terms/</loc>
+		<lastmod>2026-02-26T22:51:53+00:00</lastmod>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Terms-and-Condition.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://infernal-market.com/theatre-of-blood/</loc>
+		<lastmod>2026-02-26T22:52:04+00:00</lastmod>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Header-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/range_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/magic_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/hitpoints_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/prayer_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/def_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/star2.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://infernal-market.com/tombs-of-amascut/</loc>
+		<lastmod>2026-02-26T22:52:15+00:00</lastmod>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/08/Header-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/range_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/magic_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/hitpoints_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/prayer_icon.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://infernal-market.com/wp-content/uploads/2024/09/def_icon.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://infernal-market.com/wp-content/uploads/2024/07/logo-1.png</image:loc>
