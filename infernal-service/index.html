@@ -279,6 +279,39 @@ var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; positio
             margin-top: 20px;
         }
 
+        .weapon-category {
+            margin-top: 15px;
+            margin-bottom: 5px;
+            padding: 0;
+            font-weight: bold;
+            font-size: 1.1em;
+            color: #cccccc;
+            text-align: left;
+        }
+
+        .weapon-container {
+            margin-bottom: 15px;
+        }
+
+        .weapon {
+            padding: 10px;
+            background-color: #6b5ffe;
+            color: white;
+            border-radius: 10px;
+            cursor: pointer;
+            text-align: center;
+            margin-bottom: 10px;
+            transition: background-color 0.3s ease;
+        }
+
+        .weapon:hover {
+            background-color: #4b4fd5;
+        }
+
+        .weapon.selected {
+            background-color: #30d855;
+        }
+
         .setup-category-container {
             display: flex;
             justify-content: space-between;
@@ -456,48 +489,11 @@ var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; positio
                 </div>
             </div>
 
-            <label>Choose your setup</label>
-            <div class="setup-category-container">
-                <div class="setup-category" data-category="inferno">Main</div>
-                <div class="setup-category" data-category="pure">Pure</div>
-                <div class="setup-category" data-category="zerker">Zerker</div>
-            </div>
-
-            <div class="setup-container" id="inferno">
-                <div class="setup">
-                    <img decoding="async" src="https://infernal-market.com/wp-content/uploads/2024/09/Inferno-Bowfa.png" alt="Inferno Bowfa" data-setup="Main-Bowfa">
-                    <button type="button" class="enlarge-button">🔍</button>
-                </div>
-                <div class="setup">
-                    <img decoding="async" src="https://infernal-market.com/wp-content/uploads/2024/09/Inferno-acb.png" alt="Inferno ACB" data-setup="Main-ACB">
-                    <button type="button" class="enlarge-button">🔍</button>
-                </div>
-                <div class="setup">
-                    <img decoding="async" src="https://infernal-market.com/wp-content/uploads/2024/09/Inferno-Tbow.png" alt="Inferno Tbow" data-setup="Main-Tbow">
-                    <button type="button" class="enlarge-button">🔍</button>
-                </div>
-            </div>
-
-            <div class="setup-container" id="pure">
-                <div class="setup">
-                    <img decoding="async" src="https://infernal-market.com/wp-content/uploads/2024/09/pureACB.png" alt="Pure ACB" data-setup="Pure-ACB">
-                    <button type="button" class="enlarge-button">🔍</button>
-                </div>
-                <div class="setup">
-                    <img decoding="async" src="https://infernal-market.com/wp-content/uploads/2024/09/Puretbow.png" alt="Pure Tbow" data-setup="Pure-Tbow">
-                    <button type="button" class="enlarge-button">🔍</button>
-                </div>
-            </div>
-
-            <div class="setup-container" id="zerker">
-                <div class="setup">
-                    <img decoding="async" src="https://infernal-market.com/wp-content/uploads/2024/09/ZerkerACB.png" alt="Zerker ACB" data-setup="Zerker-ACB">
-                    <button type="button" class="enlarge-button">🔍</button>
-                </div>
-                <div class="setup">
-                    <img decoding="async" src="https://infernal-market.com/wp-content/uploads/2024/09/zerkerTbow.png" alt="Zerker Tbow" data-setup="Zerker-Tbow">
-                    <button type="button" class="enlarge-button">🔍</button>
-                </div>
+            <label class="weapon-category">Choose your Weapon</label>
+            <div class="weapon-container" id="weapon-select">
+                <div class="weapon" data-weapon="Twisted Bow">Twisted Bow</div>
+                <div class="weapon" data-weapon="Bow of Faerdhinen">Bow of Faerdhinen</div>
+                <div class="weapon" data-weapon="RCB">RCB</div>
             </div>
 
             <label for="upload-speed">Internet Upload Speed (Mbps)</label>
@@ -535,16 +531,10 @@ var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; positio
             var selectedSetup = '';
             var enlargedImage = null;
 
-            $(".setup-category").click(function () {
-                var category = $(this).attr("data-category");
-                $(".setup-container").hide();
-                $("#" + category).show();
-            });
-
-            $(".setup img").click(function () {
-                $(".setup img").removeClass('selected');
+            $(".weapon").click(function () {
+                $(".weapon").removeClass('selected');
                 $(this).addClass('selected');
-                selectedSetup = $(this).attr('data-setup');
+                selectedSetup = $(this).attr('data-weapon');
             });
 
             $(".enlarge-button").click(function (e) {
@@ -599,7 +589,7 @@ var _ckyStyles = {"css":".cky-overlay{background: #000000; opacity: 0.4; positio
                 message += "Hitpoints: " + hitpoints + "\n";
                 message += "Prayer: " + prayer + "\n";
                 message += "Defense: " + defense + "\n";
-                message += "Setup: " + selectedSetup + "\n";
+                message += "Weapon: " + selectedSetup + "\n";
                 message += "Upload Speed: " + uploadSpeed + "\n";
 
                 if (typeof zE === "function") {
